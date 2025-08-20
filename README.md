@@ -13,7 +13,7 @@ I’m passionate about bridging the gap between Law and Technology while empower
 ![AI Tools]
 
  📂 Featured Projects
-- 📊 Risk Assessment Reports→ [SAP ERP & Cisco AnyConnect VPN Risk Register https://docs.google.com/document/d/1HkKy4kg_93HCY-fc3XrWr3gtkvTBCg4OTwQnV8SUiFo/edit?usp=drivesdk](#)  
+- 📊 Risk Assessment Reports→  (https://docs.google.com/document/d/1HkKy4kg_93HCY-fc3XrWr3gtkvTBCg4OTwQnV8SUiFo/edit?usp=drivesdk)(#)  
 - 🧾 IT Audit Report →  (https://docs.google.com/document/d/1WmlrXmKbSc8Dvci0dpuZtSM61Sxr_xe3L35FE9WMJTs/edit?usp=drivesdk)
 - 🔐 Cybersecurity Awareness Campaigns→ Training content & playbooks  
   
