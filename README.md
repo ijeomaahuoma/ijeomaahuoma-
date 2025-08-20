@@ -5,7 +5,7 @@ My personal GitHub portfolio showcasing skills in Law,Cybersecurity and GRC
 I’m passionate about bridging the gap between Law and Technology while empowering individuals and organizations to thrive in the digital era. My background in Law combined with my skills in Cybersecurity, IT Audit, and Risk & Compliance allows me to approach problems with a unique multidisciplinary perspective.  
 🌐 Connect With Me
 [![LinkedIn] (https://www.linkedin.com/in/ijeoma-ahuoma?utm_source=share&utm_c
-[![Email](mailto:ijeomaahuoma@yahoo.com)  
+[![Email] mailto:ijeomaahuoma@yahoo.com 
  🛠 Skills & Tools
 ![GRC]
 ![Cybersecurity]
